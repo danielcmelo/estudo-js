@@ -9,7 +9,7 @@ console.log(valores);
 
 console.log(valores.length);//Me diz quantos elementos tem no array
 
-valores.push({id: 3}, false, null, 'Teste');
+valores.push({id: 3}, false, null, 'Teste');//Ele acrescenta elementos no array
 console.log(valores);
 
 console.log(valores.pop());//Ele pega o último valor do array me retorna e exclui
